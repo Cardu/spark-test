@@ -1,1 +1,1 @@
-["example.SparkTest1"]
+["example.MLlibTest","example.SparkStreamKafka","example.SparkStreamTest","example.SparkStreamToDataFrameTest","example.SparkTest1","example.StructuredStreamingKafka","example.StructuredStreamingTest"]
