@@ -5,7 +5,7 @@ ThisBuild / version          := "0.1.0-SNAPSHOT"
 ThisBuild / organization     := "com.example"
 ThisBuild / organizationName := "example"
 
-val sparkVersion = "2.4.4"
+val sparkVersion = "2.4.5"
 val sparkCore = "org.apache.spark" %% "spark-core" % sparkVersion
 val sparkSql = "org.apache.spark" %% "spark-sql" % sparkVersion
 val sparkStreaming = "org.apache.spark" %% "spark-streaming" % sparkVersion
